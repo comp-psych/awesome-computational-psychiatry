@@ -4,9 +4,6 @@
 
 > A curated list of resources for computational psychiatry — the application of computational and mathematical frameworks to understand, diagnose, and treat mental illness.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 Computational psychiatry uses reinforcement learning, Bayesian inference, dynamical systems, and machine learning to model the mechanisms underlying psychiatric disorders. This list collects the papers, tools, datasets, courses, and communities that define the field.
 
 **See also:** [comp-psych-syllabus](https://github.com/comp-psych/comp-psych-syllabus) — A 20-paper undergraduate reading list | [rl-model-zoo](https://github.com/comp-psych/rl-model-zoo) — Reference implementations of RL models used in psychiatry research
@@ -283,20 +280,12 @@ Computational psychiatry uses reinforcement learning, Bayesian inference, dynami
 - [ReproNim](https://www.repronim.org/) — Center for reproducible neuroimaging computation.
 - [INCF (International Neuroinformatics Coordinating Facility)](https://www.incf.org/) — Organization promoting open and FAIR neuroscience.
 
----
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding resources, suggesting categories, or reporting broken links.
 
-## Related Lists
+## Footnotes
 
 - [comp-psych-syllabus](https://github.com/comp-psych/comp-psych-syllabus) — A 20-paper undergraduate syllabus for computational psychiatry
 - [rl-model-zoo](https://github.com/comp-psych/rl-model-zoo) — Reference implementations of RL models used in computational psychiatry
 - [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) — Curated list of neuroscience libraries, software, and resources
-
----
-
-**Curated by [Peter Zhou](https://github.com/peterzhou)** — Founder, PRAXIS (Psychiatry Research, Analytics & eXperimental Innovation Society) at USC | NIH Summer Intern, NIMH ETPB
-
-*Licensed under [CC BY 4.0](LICENSE). Last updated: June 2026.*
