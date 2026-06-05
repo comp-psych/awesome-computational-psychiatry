@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+type: dataset
+title: "Awesome Computational Psychiatry"
+abstract: "A curated list of resources for computational psychiatry — papers, tools, datasets, labs, courses, conferences, and more."
+authors:
+  - family-names: Zhou
+    given-names: Peter
+    affiliation: "University of Southern California; PRAXIS"
+repository-code: "https://github.com/comp-psych/awesome-computational-psychiatry"
+url: "https://github.com/comp-psych/awesome-computational-psychiatry"
+keywords:
+  - computational psychiatry
+  - awesome list
+  - resources
+  - open science
+  - neuroscience
+license: CC-BY-4.0
+date-released: "2026-06-04"
